@@ -2,6 +2,10 @@
 
 [Download Challenge Instructions](https://github.com/inespancorbo/Data-Viz-Challenge/blob/master/Challenge_Instructions/Challenge_Description.docx)
 
+## Data
+
+Data is provided. Description of the data can be found [here](https://www.centerforglobaldata.org/understanding-covid19-across-the-globe/understanding-cv19-data/). The challenge allows use of outside data.
+
 ## Topic 1: Food Insecurity
 
 **Background**
