@@ -49,10 +49,10 @@ One of the most prevalent topics we are seeing around the world right now is job
 
 These countries cover nearly a third of the world’s population and have seen or are currently seeing a range of different impacts of COVID-19.
 1.	Indian Subcontinent:
-o	India
-o	Sri Lanka
-o	Bangladesh
-o	Pakistan
+- India
+- Sri Lanka
+- Bangladesh
+- Pakistan
 2.	Brazil
 3.	Egypt
 4.	Indonesia
