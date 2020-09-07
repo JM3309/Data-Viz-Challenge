@@ -15,6 +15,7 @@ These changes are expected to have greater impact in countries with existing hum
 For this data visualization challenge, we would like you to explore how COVID – 19 and other shocks and stresses impact food security around the world.
 
 **Country List**
+
 Please select one of the following countries to serve as the context for your submission: 
 1.	Senegal 
 2.	Ethiopia 
